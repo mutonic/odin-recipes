@@ -1,0 +1,27 @@
+body{
+    background-image: url('https://www.pexels.com/fr-fr/photo/menu-restaurant-rouge-repas-4033634/');
+    background-size: cover;
+    height: 100vh;
+
+}
+.container{
+    justify-content: center;
+    text-align: center;
+    margin-left: 20%;
+    margin-right: 20%;
+    
+}
+
+.description{
+    display: inline-block;
+    vertical-align: middle;
+    margin-bottom: 10%;
+
+}
+
+ul {
+    list-style: none;
+}
+
+
+
